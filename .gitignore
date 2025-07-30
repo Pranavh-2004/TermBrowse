@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# Virtual environment
+venv/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage reports
+.coverage
+htmlcov/
+
+# Pytest
+.cache/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Bookmarks and temporary data
+data/bookmarks.json
